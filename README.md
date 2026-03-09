@@ -27,7 +27,7 @@
 
 ![Dashboard](https://github.com/user-attachments/assets/177a8b4a-7765-415d-8570-350f3cb4a85a)
 
-![Dashboard](https://github.com/ChristopherDond/TaskMaster/issues/2#issue-4043283265)
+![Dashboard](https://github.com/user-attachments/assets/1fbb7e98-113a-4a12-9861-260756c320ea)
 
 </div>
 
@@ -285,5 +285,6 @@ Built with ☕ and a lot of productivity.
 ⭐ Star this repo if it helped you!
 
 </div>
+
 
 
