@@ -20,26 +20,25 @@
 
 ## 📸 Screenshots
 
-
-## Screenshots Portugues
+### 🇧🇷 Português
 
 <div align="center">
 
-![Dashboard](https://github.com/user-attachments/assets/177a8b4a-7765-415d-8570-350f3cb4a85a)
-
-![Dashboard](https://github.com/user-attachments/assets/1fbb7e98-113a-4a12-9861-260756c320ea)
+| | |
+|:---:|:---:|
+| ![Dashboard](https://github.com/user-attachments/assets/177a8b4a-7765-415d-8570-350f3cb4a85a) | ![Tasks](https://github.com/user-attachments/assets/1fbb7e98-113a-4a12-9861-260756c320ea) |
 
 </div>
 
 ---
 
-## Screenshots English
+### 🇺🇸 English
 
 <div align="center">
 
-![Dashboard](https://github.com/ChristopherDond/TaskMaster/issues/1#issue-4043281921)
-
-![Dashboard](https://github.com/ChristopherDond/TaskMaster/issues/2#issue-4043283265)
+| | |
+|:---:|:---:|
+| ![Dashboard](https://github.com/user-attachments/assets/SUA-URL-AQUI) | ![Tasks](https://github.com/user-attachments/assets/SUA-URL-AQUI) |
 
 </div>
 
@@ -285,6 +284,7 @@ Built with ☕ and a lot of productivity.
 ⭐ Star this repo if it helped you!
 
 </div>
+
 
 
 
