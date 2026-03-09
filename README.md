@@ -20,6 +20,21 @@
 
 ## 📸 Screenshots
 
+
+## Screenshots Portugues
+
+<div align="center">
+
+![Dashboard](https://github.com/ChristopherDond/TaskMaster/issues/1#issue-4043281921)
+
+![Dashboard](https://github.com/ChristopherDond/TaskMaster/issues/2#issue-4043283265)
+
+</div>
+
+---
+
+## Screenshots English
+
 <div align="center">
 
 ![Dashboard](https://github.com/ChristopherDond/TaskMaster/issues/1#issue-4043281921)
@@ -270,3 +285,4 @@ Built with ☕ and a lot of productivity.
 ⭐ Star this repo if it helped you!
 
 </div>
+
