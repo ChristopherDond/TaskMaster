@@ -1,3 +1,5 @@
+[Leia em Português (Brasil)](README-pt-br.md)
+
 <div align="center">
 
 # ⚡ TaskMaster
